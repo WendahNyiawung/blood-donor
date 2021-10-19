@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/17741510/97121172-8e5e4d00-171c-11eb-8301-254d9e9880e7.png" width="500"/>
-</p>
 
 # Responsive Navbar
 
